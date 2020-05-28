@@ -1,20 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="cz---czech-republic-a" width="32" height="24" x="0" y="0"/>
-    <rect id="cz---czech-republic-c" width="32" height="24" x="0" y="0"/>
-    <polygon id="cz---czech-republic-e" points="0 0 0 24 18 12"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="cz---czech-republic-b" fill="#fff">
-      <use xlink:href="#cz---czech-republic-a"/>
-    </mask>
-    <g mask="url(#cz---czech-republic-b)">
-      <mask id="cz---czech-republic-d" fill="#fff">
-        <use xlink:href="#cz---czech-republic-c"/>
-      </mask>
-      <use fill="#E31D1C" xlink:href="#cz---czech-republic-c"/>
-      <rect width="32" height="14" y="-2" fill="#F7FCFF" mask="url(#cz---czech-republic-d)"/>
-      <use fill="#3D58DB" xlink:href="#cz---czech-republic-e"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/CZ - Czech Republic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+        <rect id="path-3" x="0" y="0" width="32" height="24"></rect>
+        <polygon id="path-5" points="0 0 0 24 18 12"></polygon>
+    </defs>
+    <g id="flags/L/CZ---Czech-Republic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#E31D1C" xlink:href="#path-3"></use>
+                <rect id="top" fill="#F7FCFF" mask="url(#mask-4)" x="0" y="-2" width="32" height="14"></rect>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="triangle" fill="#3D58DB" xlink:href="#path-5"></use>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

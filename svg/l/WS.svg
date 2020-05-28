@@ -1,25 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="ws---samoa-a" width="32" height="24" x="0" y="0"/>
-    <rect id="ws---samoa-c" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="ws---samoa-b" fill="#fff">
-      <use xlink:href="#ws---samoa-a"/>
-    </mask>
-    <g mask="url(#ws---samoa-b)">
-      <mask id="ws---samoa-d" fill="#fff">
-        <use xlink:href="#ws---samoa-c"/>
-      </mask>
-      <use fill="#C51918" xlink:href="#ws---samoa-c"/>
-      <g mask="url(#ws---samoa-d)">
-        <rect width="16" height="14" fill="#2E42A5"/>
-        <polygon fill="#FEFFFF" points="3.566 7.772 2.506 8.412 2.747 7.163 1.865 6.229 3.06 6.178 3.566 5.012 4.071 6.178 5.265 6.178 4.384 7.163 4.649 8.412"/>
-        <polygon fill="#FEFFFF" points="11.566 7.772 10.506 8.412 10.747 7.163 9.865 6.229 11.06 6.178 11.566 5.012 12.071 6.178 13.265 6.178 12.384 7.163 12.649 8.412"/>
-        <polygon fill="#FEFFFF" points="7.466 4.138 6.468 4.74 6.695 3.565 5.865 2.685 6.99 2.638 7.466 1.54 7.942 2.638 9.065 2.638 8.236 3.565 8.485 4.74"/>
-        <polygon fill="#FEFFFF" points="8.546 8.425 7.923 8.802 8.065 8.067 7.546 7.517 8.249 7.488 8.546 6.802 8.844 7.488 9.546 7.488 9.028 8.067 9.184 8.802"/>
-        <polygon fill="#FEFFFF" points="7.409 12.828 5.912 13.732 6.254 11.969 5.007 10.649 6.695 10.578 7.409 8.932 8.123 10.578 9.807 10.578 8.564 11.969 8.938 13.732"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/WS - Samoa</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+        <rect id="path-3" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/WS---Samoa" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#C51918" xlink:href="#path-3"></use>
+                <g id="mark" mask="url(#mask-4)">
+                    <rect id="top" fill="#2E42A5" x="0" y="0" width="16" height="14"></rect>
+                    <polygon id="Star-5" fill="#FEFFFF" points="3.56565944 7.77201398 2.50561233 8.41196289 2.74740237 7.16316651 1.86464262 6.22856522 3.05994876 6.1780306 3.56565944 5.01196289 4.07137013 6.1780306 5.26464262 6.1780306 4.38391652 7.16316651 4.64906726 8.41196289"></polygon>
+                    <polygon id="Star-5" fill="#FEFFFF" points="11.5656594 7.77201398 10.5056123 8.41196289 10.7474024 7.16316651 9.86464262 6.22856522 11.0599488 6.1780306 11.5656594 5.01196289 12.0713701 6.1780306 13.2646426 6.1780306 12.3839165 7.16316651 12.6490673 8.41196289"></polygon>
+                    <polygon id="Star-5" fill="#FEFFFF" points="7.46559963 4.13795251 6.46790823 4.74025737 6.69547532 3.56491959 5.86464262 2.68529485 6.98963663 2.63773286 7.46559963 1.54025737 7.94156263 2.63773286 9.06464262 2.63773286 8.23572393 3.56491959 8.48527758 4.74025737"></polygon>
+                    <polygon id="Star-5" fill="#FEFFFF" points="8.54624749 8.42524695 7.92269037 8.80168749 8.0649198 8.06710138 7.54564936 7.51733592 8.24877062 7.48760967 8.54624749 6.80168749 8.84372437 7.48760967 9.54564936 7.48760967 9.02757518 8.06710138 9.18354621 8.80168749"></polygon>
+                    <polygon id="Star-5" fill="#FEFFFF" points="7.40876936 12.8282836 5.91223225 13.7317409 6.2535829 11.9687342 5.00733384 10.6492971 6.69482486 10.5779541 7.40876936 8.93174086 8.12271385 10.5779541 9.80733384 10.5779541 8.56395581 11.9687342 8.93828628 13.7317409"></polygon>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

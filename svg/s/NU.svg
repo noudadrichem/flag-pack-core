@@ -1,52 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="nu---niue-a" width="16" height="12" x="0" y="0"/>
-    <rect id="nu---niue-c" width="16" height="12" x="0" y="0"/>
-    <rect id="nu---niue-e" width="16" height="8" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="nu---niue-b" fill="#fff">
-      <use xlink:href="#nu---niue-a"/>
-    </mask>
-    <g mask="url(#nu---niue-b)">
-      <mask id="nu---niue-d" fill="#fff">
-        <use xlink:href="#nu---niue-c"/>
-      </mask>
-      <use fill="#2E42A5" xlink:href="#nu---niue-c"/>
-      <rect width="16" height="4" y="8" fill="#FECA00" mask="url(#nu---niue-d)"/>
-      <g mask="url(#nu---niue-d)">
-        <mask id="nu---niue-f" fill="#fff">
-          <use xlink:href="#nu---niue-e"/>
-        </mask>
-        <g mask="url(#nu---niue-f)">
-          <g transform="translate(-3 -1)">
-            <g transform="translate(1)">
-              <polygon fill="#FFF" fill-rule="nonzero" points=".869 1.139 4.04 .405 10.801 4.141 11.516 4.559 17.938 7.917 19.459 8.977 15.979 9.298 10.369 6.133 6.314 4.141" transform="matrix(1 0 0 -1 0 9.704)"/>
-              <polygon fill="#F50100" fill-rule="nonzero" points="1.148 1.153 2.855 .593 18.824 9.569 16.427 9.569" transform="matrix(1 0 0 -1 0 10.162)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/NU - Niue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-5" x="0" y="0" width="16" height="8"></rect>
+    </defs>
+    <g id="flags/S/NU---Niue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#2E42A5" xlink:href="#path-3"></use>
+                <rect id="bottom" fill="#FECA00" mask="url(#mask-4)" x="0" y="8" width="16" height="4"></rect>
+                <g id="mark-1" mask="url(#mask-4)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="mask"></g>
+                    <g id="contents" mask="url(#mask-6)">
+                        <g transform="translate(-3.000000, -1.000000)">
+                            <g id="stripe" transform="translate(1.000000, 0.000000)">
+                                <polygon id="white" fill="#FFFFFF" fill-rule="nonzero" transform="translate(10.164114, 4.851822) scale(1, -1) translate(-10.164114, -4.851822) " points="0.868911597 1.13895366 4.04027123 0.405299683 10.8008096 4.14076216 11.5161831 4.55907409 17.9379674 7.91690154 19.4593157 8.97741596 15.9794782 9.29834524 10.3686788 6.13334194 6.31398937 4.14076216"></polygon>
+                                <polygon id="red" fill="#F50100" fill-rule="nonzero" transform="translate(9.986008, 5.081230) scale(1, -1) translate(-9.986008, -5.081230) " points="1.14753323 1.15304633 2.85500514 0.592975947 18.8244827 9.56948454 16.4269934 9.56948454"></polygon>
+                            </g>
+                            <g id="stripe" transform="translate(10.500000, 5.000000) scale(-1, 1) translate(-10.500000, -5.000000) ">
+                                <polygon id="white" fill="#FFFFFF" fill-rule="nonzero" transform="translate(10.364451, 4.851003) scale(1, -1) translate(-10.364451, -4.851003) " points="0.81461747 1.33660573 0.688697783 0.581598075 4.04027123 0.403660296 9.44332915 3.56833305 9.95275748 3.39428825 20.0402046 8.49667666 15.87529 9.29834524 10.3073057 6.22240608 5.9515703 4.11777588"></polygon>
+                                <polygon id="red" fill="#F50100" fill-rule="nonzero" transform="translate(10.216241, 5.054867) scale(1, -1) translate(-10.216241, -5.054867) " points="0.80305749 1.29121061 2.51052941 0.731140232 9.31049845 4.5744499 11.3265433 5.00385366 19.6294244 9.37859358 17.2319351 9.37859358 8.93371891 5.10769142 6.72952908 4.59279031"></polygon>
+                            </g>
+                            <g id="cross" transform="translate(2.384615, 0.333333)">
+                                <path d="M9.42915916,0.666666667 L9.42838462,3.66666667 L16.6153846,3.66666667 L16.6153846,5.66666667 L9.42838462,5.66666667 L9.42915916,9.66666667 L7.83488623,9.66666667 L7.83438462,5.66666667 L0.615384615,5.66666667 L0.615384615,3.66666667 L7.83438462,3.66666667 L7.83488623,0.666666667 L9.42915916,0.666666667 Z" id="white" stroke="#FFFFFF" stroke-width="1.25"></path>
+                                <path d="M9.46153846,0 L9.46138462,3.666 L17.6153846,3.66666667 L17.6153846,5.66666667 L9.46138462,5.666 L9.46153846,10.3333333 L7.76923077,10.3333333 L7.76838462,5.666 L0.615384615,5.66666667 L0.615384615,3.66666667 L7.76838462,3.666 L7.76923077,0 L9.46153846,0 Z" id="red" fill="#F50100"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="mark-2" mask="url(#mask-4)">
+                    <g transform="translate(2.000000, 0.000000)">
+                        <circle id="Oval-37" fill="#2E42A5" cx="6.02502441" cy="3.92500305" r="1.375"></circle>
+                        <g id="stars" stroke-width="1" fill="none" transform="translate(0.000000, 0.600006)">
+                            <polygon id="Star-10" fill="#FECA00" points="6.04999995 3.74564635 5.40106429 4.19721554 5.62999997 3.4404985 5 2.96286657 5.79042568 2.9467589 6.04999995 2.19999695 6.30957422 2.9467589 7.0999999 2.96286657 6.46999994 3.4404985 6.69893561 4.19721554"></polygon>
+                            <polygon id="Star-10" fill="#FECA00" points="1.54999995 3.68803513 1.00922021 4.0643428 1.19999995 3.43374524 0.674999952 3.03571861 1.33368805 3.02229556 1.54999995 2.3999939 1.76631185 3.02229556 2.42499995 3.03571861 1.89999996 3.43374524 2.09077969 4.0643428"></polygon>
+                            <polygon id="Star-10" fill="#FECA00" points="10.55 3.68803513 10.0092202 4.0643428 10.1999999 3.43374524 9.67499995 3.03571861 10.3336881 3.02229556 10.55 2.3999939 10.7663119 3.02229556 11.425 3.03571861 10.9 3.43374524 11.0907797 4.0643428"></polygon>
+                            <polygon id="Star-10" fill="#FECA00" points="6.04999995 1.28804123 5.50922021 1.6643489 5.69999995 1.03375134 5.17499995 0.635724712 5.83368805 0.622301659 6.04999995 0 6.26631185 0.622301659 6.92499995 0.635724712 6.39999996 1.03375134 6.59077969 1.6643489"></polygon>
+                            <polygon id="Star-10" fill="#FECA00" points="6.04999995 6.58804428 5.50922021 6.96435196 5.69999995 6.33375439 5.17499995 5.93572776 5.83368805 5.92230471 6.04999995 5.30000305 6.26631185 5.92230471 6.92499995 5.93572776 6.39999996 6.33375439 6.59077969 6.96435196"></polygon>
+                        </g>
+                    </g>
+                </g>
             </g>
-            <g transform="matrix(-1 0 0 1 21 0)">
-              <polygon fill="#FFF" fill-rule="nonzero" points=".815 1.337 .689 .582 4.04 .404 9.443 3.568 9.953 3.394 20.04 8.497 15.875 9.298 10.307 6.222 5.952 4.118" transform="matrix(1 0 0 -1 0 9.702)"/>
-              <polygon fill="#F50100" fill-rule="nonzero" points=".803 1.291 2.511 .731 9.31 4.574 11.327 5.004 19.629 9.379 17.232 9.379 8.934 5.108 6.73 4.593" transform="matrix(1 0 0 -1 0 10.11)"/>
-            </g>
-            <g transform="translate(2.385 .333)">
-              <path stroke="#FFF" stroke-width="1.25" d="M7.83488623,3.66666667 L7.83488623,0.666666667 L9.42915916,0.666666667 L9.42915916,3.66666667 L16.6153846,3.66666667 L16.6153846,5.66666667 L9.42915916,5.66666667 L9.42915916,9.66666667 L7.83488623,9.66666667 L7.83488623,5.66666667 L0.615384615,5.66666667 L0.615384615,3.66666667 L7.83488623,3.66666667 Z"/>
-              <path fill="#F50100" d="M7.76923077,3.66666667 L7.76923077,0 L9.46153846,0 L9.46153846,3.66666667 L17.6153846,3.66666667 L17.6153846,5.66666667 L9.46153846,5.66666667 L9.46153846,10.3333333 L7.76923077,10.3333333 L7.76923077,5.66666667 L0.615384615,5.66666667 L0.615384615,3.66666667 L7.76923077,3.66666667 Z"/>
-            </g>
-          </g>
         </g>
-      </g>
-      <g mask="url(#nu---niue-d)">
-        <g transform="translate(2)">
-          <circle cx="6.025" cy="3.925" r="1.375" fill="#2E42A5"/>
-          <g transform="translate(0 .6)">
-            <polygon fill="#FECA00" points="6.05 3.746 5.401 4.197 5.63 3.44 5 2.963 5.79 2.947 6.05 2.2 6.31 2.947 7.1 2.963 6.47 3.44 6.699 4.197"/>
-            <polygon fill="#FECA00" points="1.55 3.688 1.009 4.064 1.2 3.434 .675 3.036 1.334 3.022 1.55 2.4 1.766 3.022 2.425 3.036 1.9 3.434 2.091 4.064"/>
-            <polygon fill="#FECA00" points="10.55 3.688 10.009 4.064 10.2 3.434 9.675 3.036 10.334 3.022 10.55 2.4 10.766 3.022 11.425 3.036 10.9 3.434 11.091 4.064"/>
-            <polygon fill="#FECA00" points="6.05 1.288 5.509 1.664 5.7 1.034 5.175 .636 5.834 .622 6.05 0 6.266 .622 6.925 .636 6.4 1.034 6.591 1.664"/>
-            <polygon fill="#FECA00" points="6.05 6.588 5.509 6.964 5.7 6.334 5.175 5.936 5.834 5.922 6.05 5.3 6.266 5.922 6.925 5.936 6.4 6.334 6.591 6.964"/>
-          </g>
-        </g>
-      </g>
     </g>
-  </g>
 </svg>

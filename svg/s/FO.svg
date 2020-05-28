@@ -1,20 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="fo---faroe-islands-a" width="16" height="12" x="0" y="0"/>
-    <rect id="fo---faroe-islands-c" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="fo---faroe-islands-b" fill="#fff">
-      <use xlink:href="#fo---faroe-islands-a"/>
-    </mask>
-    <g mask="url(#fo---faroe-islands-b)">
-      <mask id="fo---faroe-islands-d" fill="#fff">
-        <use xlink:href="#fo---faroe-islands-c"/>
-      </mask>
-      <use fill="#F7FCFF" xlink:href="#fo---faroe-islands-c"/>
-      <g fill="#F50100" stroke="#2E42A5" mask="url(#fo---faroe-islands-d)">
-        <path d="M7.5,4.5 L16.5,4.5 L16.5,7.5 L7.5,7.5 L7.5,12.5 L4.5,12.5 L4.5,7.5 L-0.5,7.5 L-0.5,4.5 L4.5,4.5 L4.5,-0.5 L7.5,-0.5 L7.5,4.5 Z"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/FO - Faroe Islands</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/FO---Faroe-Islands" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#F7FCFF" xlink:href="#path-3"></use>
+                <g id="mark" mask="url(#mask-4)" fill="#F50100" stroke="#2E42A5">
+                    <path d="M7.5,4.5 L16.5,4.5 L16.5,7.5 L7.5,7.5 L7.5,12.5 L4.5,12.5 L4.5,7.5 L-0.5,7.5 L-0.5,4.5 L4.5,4.5 L4.5,-0.5 L7.5,-0.5 L7.5,4.5 Z" id="cross"></path>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

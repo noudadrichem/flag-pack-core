@@ -1,15 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="th---thailand-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="th---thailand-b" fill="#fff">
-      <use xlink:href="#th---thailand-a"/>
-    </mask>
-    <g mask="url(#th---thailand-b)">
-      <polygon fill="#F50101" points="0 8 16 8 16 12 0 12"/>
-      <polygon fill="#F50101" points="0 0 16 0 16 3 0 3"/>
-      <path fill="#3D58DB" stroke="#FFF" stroke-width="1.5" d="M-0.75,3.25 L16.75,3.25 L16.75,8.75 L-0.75,8.75 L-0.75,3.25 Z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/TH - Thailand</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/TH---Thailand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <polygon id="bottom" fill="#F50101" points="0 8 16 8 16 12 0 12"></polygon>
+                <polygon id="top" fill="#F50101" points="0 0 16 0 16 3 0 3"></polygon>
+                <path d="M-0.75,3.25 L16.75,3.25 L16.75,8.75 L-0.75,8.75 L-0.75,3.25 Z" id="middle" stroke="#FFFFFF" stroke-width="1.5" fill="#3D58DB"></path>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

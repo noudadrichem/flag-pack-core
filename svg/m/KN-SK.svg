@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="15px" viewBox="0 0 20 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/M/KN-SK - Saint Kitts and Nevis</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="20" height="15"></rect>
+        <polygon id="path-3" points="2.5 2.5 2.5 17.5 22.5 2.5"></polygon>
+    </defs>
+    <g id="flags/M/KN-SK---Saint-Kitts-and-Nevis" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <g transform="translate(-2.500000, -2.500000)">
+                    <rect id="background" stroke="none" fill="#C51918" fill-rule="evenodd" x="2.5" y="2.5" width="20" height="15"></rect>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="left" stroke="none" fill="#5EAA22" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path d="M3.34954617,20.4744015 L-1.02954183,15.5892789 L22.946395,-0.414199136 L27.325483,4.47092353 L3.34954617,20.4744015 Z" id="Path-14" stroke="#FFD018" stroke-width="1.5625" fill="#272727" fill-rule="nonzero"></path>
+                    <polygon id="Star-5" stroke="none" fill="#F7FCFF" fill-rule="evenodd" transform="translate(9.487580, 12.051901) rotate(-29.000000) translate(-9.487580, -12.051901) " points="9.48870136 13.2210747 8.31953175 13.9269007 8.58621194 12.5495517 7.61257986 11.5187415 8.93093222 11.4630048 9.48870136 10.1769007 10.0464705 11.4630048 11.3625799 11.4630048 10.3911908 12.5495517 10.6836365 13.9269007"></polygon>
+                    <polygon id="Star-5" stroke="none" fill="#F7FCFF" fill-rule="evenodd" transform="translate(15.737580, 7.956174) rotate(-29.000000) translate(-15.737580, -7.956174) " points="15.7387014 9.12534834 14.5695317 9.83117434 14.8362119 8.45382539 13.8625799 7.42301515 15.1809322 7.36727844 15.7387014 6.08117434 16.2964705 7.36727844 17.6125799 7.36727844 16.6411908 8.45382539 16.9336365 9.83117434"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

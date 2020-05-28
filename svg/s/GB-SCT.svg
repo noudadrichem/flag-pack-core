@@ -1,15 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="gb-sct---scotland-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="gb-sct---scotland-b" fill="#fff">
-      <use xlink:href="#gb-sct---scotland-a"/>
-    </mask>
-    <g mask="url(#gb-sct---scotland-b)">
-      <polygon fill="#0067C3" points="0 0 16 0 16 12 0 12"/>
-      <path stroke="#FFF" stroke-width="2" d="M0,0 L16,12" transform="matrix(-1 0 0 1 16 0)"/>
-      <path stroke="#FFF" stroke-width="2" d="M0,0 L16,12"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/GB-SCT - Scotland</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/GB-SCT---Scotland" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <polygon id="middle" fill="#0067C3" points="0 0 16 0 16 12 0 12"></polygon>
+                <line x1="0" y1="0" x2="16" y2="12" id="Path-447" stroke="#FFFFFF" stroke-width="2" fill-rule="nonzero" transform="translate(8.000000, 6.000000) scale(-1, 1) translate(-8.000000, -6.000000) "></line>
+                <line x1="0" y1="0" x2="16" y2="12" id="Path-447" stroke="#FFFFFF" stroke-width="2" fill-rule="nonzero"></line>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

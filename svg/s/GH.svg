@@ -1,16 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="gh---ghana-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="gh---ghana-b" fill="#fff">
-      <use xlink:href="#gh---ghana-a"/>
-    </mask>
-    <g mask="url(#gh---ghana-b)">
-      <polygon fill="#5EAA22" points="0 8 16 8 16 12 0 12"/>
-      <polygon fill="#FECA00" points="0 4 16 4 16 8 0 8"/>
-      <polygon fill="#E11C1B" points="0 0 16 0 16 4 0 4"/>
-      <polygon fill="#1D1D1D" points="8.038 7.245 6.295 8.454 6.852 6.384 5.572 5.061 7.305 4.989 8.038 2.942 8.771 4.989 10.5 4.989 9.224 6.384 9.863 8.332" opacity=".9"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/GH - Ghana</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/GH---Ghana" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <polygon id="bottom" fill="#5EAA22" points="0 8 16 8 16 12 0 12"></polygon>
+                <polygon id="middle" fill="#FECA00" points="0 4 16 4 16 8 0 8"></polygon>
+                <polygon id="top" fill="#E11C1B" points="0 0 16 0 16 4 0 4"></polygon>
+                <polygon id="Star-5" fill="#1D1D1D" opacity="0.900000036" points="8.03770549 7.24520102 6.29489119 8.45405032 6.85178456 6.38357903 5.57237825 5.06096038 7.30476604 4.98944536 8.03770549 2.94205678 8.77064493 4.98944536 10.5000853 4.98944536 9.22362642 6.38357903 9.86289733 8.33184599"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

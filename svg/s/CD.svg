@@ -1,21 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="cd---democratic-republic-of-the-congo-a" width="16" height="12" x="0" y="0"/>
-    <rect id="cd---democratic-republic-of-the-congo-c" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="cd---democratic-republic-of-the-congo-b" fill="#fff">
-      <use xlink:href="#cd---democratic-republic-of-the-congo-a"/>
-    </mask>
-    <g mask="url(#cd---democratic-republic-of-the-congo-b)">
-      <mask id="cd---democratic-republic-of-the-congo-d" fill="#fff">
-        <use xlink:href="#cd---democratic-republic-of-the-congo-c"/>
-      </mask>
-      <use fill="#3195F9" xlink:href="#cd---democratic-republic-of-the-congo-c"/>
-      <path fill="#E31D1C" fill-rule="nonzero" stroke="#FECA00" stroke-width="1.25" d="M-0.563852998,13.2394498 L-2.36815196,10.5363025 L16.8019871,-2.25939764 L18.6062861,0.443749642 L-0.563852998,13.2394498 Z" mask="url(#cd---democratic-republic-of-the-congo-d)"/>
-      <g fill="#FECA00" mask="url(#cd---democratic-republic-of-the-congo-d)">
-        <polygon points="2.465 4.303 .723 5.512 1.279 3.442 0 2.119 1.732 2.047 2.465 0 3.198 2.047 4.928 2.047 3.651 3.442 4.291 5.39"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/CD - Democratic Republic of the Congo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/CD---Democratic-Republic-of-the-Congo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#3195F9" xlink:href="#path-3"></use>
+                <path d="M-0.563852998,13.2394498 L-2.36815196,10.5363025 L16.8019871,-2.25939764 L18.6062861,0.443749642 L-0.563852998,13.2394498 Z" id="Path-14" stroke="#FECA00" stroke-width="1.25" fill="#E31D1C" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                <g id="mark" mask="url(#mask-4)" fill="#FECA00">
+                    <polygon id="Star-5" points="2.46532724 4.30314424 0.722512948 5.51199354 1.27940631 3.44152225 0 2.11890361 1.7323878 2.04738859 2.46532724 0 3.19826668 2.04738859 4.92770706 2.04738859 3.65124817 3.44152225 4.29051909 5.38978921"></polygon>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

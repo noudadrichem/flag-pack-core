@@ -1,18 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="ua---ukraine-a" width="16" height="12" x="0" y="0"/>
-    <rect id="ua---ukraine-c" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="ua---ukraine-b" fill="#fff">
-      <use xlink:href="#ua---ukraine-a"/>
-    </mask>
-    <g mask="url(#ua---ukraine-b)">
-      <mask id="ua---ukraine-d" fill="#fff">
-        <use xlink:href="#ua---ukraine-c"/>
-      </mask>
-      <use fill="#3195F9" xlink:href="#ua---ukraine-c"/>
-      <rect width="16" height="6" y="6" fill="#FECA00" mask="url(#ua---ukraine-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/UA - Ukraine</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/UA---Ukraine" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#3195F9" xlink:href="#path-3"></use>
+                <rect id="top" fill="#FECA00" mask="url(#mask-4)" x="0" y="6" width="16" height="6"></rect>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

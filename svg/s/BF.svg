@@ -1,19 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="bf---burkina-faso-a" width="16" height="12" x="0" y="0"/>
-    <rect id="bf---burkina-faso-c" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="bf---burkina-faso-b" fill="#fff">
-      <use xlink:href="#bf---burkina-faso-a"/>
-    </mask>
-    <g mask="url(#bf---burkina-faso-b)">
-      <mask id="bf---burkina-faso-d" fill="#fff">
-        <use xlink:href="#bf---burkina-faso-c"/>
-      </mask>
-      <use fill="#5EAA22" xlink:href="#bf---burkina-faso-c"/>
-      <rect width="16" height="6" fill="#C51918" mask="url(#bf---burkina-faso-d)"/>
-      <polygon fill="#FECA00" points="8.018 7.885 5.666 9.665 6.419 6.766 4.213 5.002 6.842 5.002 8.017 2.429 9.193 5.002 11.822 5.002 9.593 6.769 10.369 9.665" mask="url(#bf---burkina-faso-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/BF - Burkina Faso</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/BF---Burkina-Faso" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#5EAA22" xlink:href="#path-3"></use>
+                <rect id="top" fill="#C51918" mask="url(#mask-4)" x="0" y="0" width="16" height="6"></rect>
+                <polygon id="Star-5" fill="#FECA00" mask="url(#mask-4)" points="8.01770801 7.88529862 5.66624865 9.66492758 6.41862687 6.76647885 4.21316359 5.00180862 6.84181915 5.00180862 8.01738966 2.4288596 9.19296016 5.00180862 11.8216157 5.00180862 9.5927505 6.76878043 10.3685307 9.66492758"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

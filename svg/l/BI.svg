@@ -1,18 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="bi---burundi-a" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="bi---burundi-b" fill="#fff">
-      <use xlink:href="#bi---burundi-a"/>
-    </mask>
-    <g mask="url(#bi---burundi-b)">
-      <rect width="32" height="24" fill="#5EAA22" rx="2"/>
-      <path fill="#DD2C2B" fill-rule="nonzero" stroke="#FFF" stroke-width="2.5" d="M-3.75,25.25 L16,10.4375 L35.75,25.25 L-3.75,25.25 Z M-3.75,-1.25 L35.75,-1.25 L16,13.5625 L-3.75,-1.25 Z"/>
-      <circle cx="16" cy="12" r="6" fill="#FFF"/>
-      <polygon fill="#DD2C2B" stroke="#5EAA22" stroke-width=".25" points="16 10.54 15 11.132 15.013 9.97 14 9.4 15.013 8.83 15 7.668 16 8.26 17 7.668 16.987 8.83 18 9.4 16.987 9.97 17 11.132" transform="rotate(30 16 9.4)"/>
-      <polygon fill="#DD2C2B" stroke="#5EAA22" stroke-width=".25" points="13.5 14.64 12.5 15.232 12.513 14.07 11.5 13.5 12.513 12.93 12.5 11.768 13.5 12.36 14.5 11.768 14.487 12.93 15.5 13.5 14.487 14.07 14.5 15.232" transform="rotate(30 13.5 13.5)"/>
-      <polygon fill="#DD2C2B" stroke="#5EAA22" stroke-width=".25" points="18.5 14.64 17.5 15.232 17.513 14.07 16.5 13.5 17.513 12.93 17.5 11.768 18.5 12.36 19.5 11.768 19.487 12.93 20.5 13.5 19.487 14.07 19.5 15.232" transform="rotate(30 18.5 13.5)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/BI - Burundi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/BI---Burundi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <rect id="background" fill="#5EAA22" x="0" y="0" width="32" height="24" rx="2"></rect>
+                <path d="M18.0833333,12 L35.75,25.25 L-3.749625,25.25 L13.9148333,12 L-3.749625,-1.25 L35.75,-1.25 L18.0833333,12 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2.5" fill="#DD2C2B" fill-rule="nonzero"></path>
+                <circle id="Oval-12" fill="#FFFFFF" cx="16" cy="12" r="6"></circle>
+                <polygon id="Star" stroke="#5EAA22" stroke-width="0.25" fill="#DD2C2B" transform="translate(16.000000, 9.400000) rotate(-330.000000) translate(-16.000000, -9.400000) " points="16 10.5399998 15 11.1320506 15.012731 9.96999981 14 9.39999981 15.012731 8.82999981 15 7.667949 16 8.25999981 17 7.667949 16.987269 8.82999981 18 9.39999981 16.987269 9.96999981 17 11.1320506"></polygon>
+                <polygon id="Star" stroke="#5EAA22" stroke-width="0.25" fill="#DD2C2B" transform="translate(13.500000, 13.500000) rotate(-330.000000) translate(-13.500000, -13.500000) " points="13.4999998 14.6399998 12.4999998 15.2320506 12.5127308 14.0699998 11.4999998 13.4999998 12.5127308 12.9299998 12.4999998 11.767949 13.4999998 12.3599998 14.4999998 11.767949 14.4872688 12.9299998 15.4999998 13.4999998 14.4872688 14.0699998 14.4999998 15.2320506"></polygon>
+                <polygon id="Star" stroke="#5EAA22" stroke-width="0.25" fill="#DD2C2B" transform="translate(18.500000, 13.500000) rotate(-330.000000) translate(-18.500000, -13.500000) " points="18.4999998 14.6399998 17.4999998 15.2320506 17.5127308 14.0699998 16.4999998 13.4999998 17.5127308 12.9299998 17.4999998 11.767949 18.4999998 12.3599998 19.4999998 11.767949 19.4872688 12.9299998 20.4999998 13.4999998 19.4872688 14.0699998 19.4999998 15.2320506"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

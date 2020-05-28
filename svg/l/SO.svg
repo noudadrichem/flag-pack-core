@@ -1,14 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="so---somalia-a" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="so---somalia-b" fill="#fff">
-      <use xlink:href="#so---somalia-a"/>
-    </mask>
-    <g mask="url(#so---somalia-b)">
-      <polygon fill="#56C6F5" points="0 0 32 0 32 24 0 24"/>
-      <polygon fill="#F7FCFF" points="6.234 9.718 2.512 12.176 3.701 7.966 .969 5.276 4.668 5.13 6.234 .966 7.799 5.13 11.492 5.13 8.766 7.966 10.131 11.928" transform="rotate(1 -275.241 582.015)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/SO - Somalia</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/SO---Somalia" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <polygon id="base" fill="#56C6F5" points="0 0 32 0 32 24 0 24"></polygon>
+                <g id="mark" transform="translate(10.000000, 5.000000)" fill="#F7FCFF">
+                    <polygon id="Star-5" transform="translate(6.230458, 6.571379) rotate(1.000000) translate(-6.230458, -6.571379) " points="6.23360528 9.7178287 2.5120068 12.1762781 3.7011946 7.96553913 0.969155617 5.27571587 4.66848941 5.13027503 6.23360528 0.966479626 7.79872115 5.13027503 11.491761 5.13027503 8.76601596 7.96553913 10.1311124 11.9277498"></polygon>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

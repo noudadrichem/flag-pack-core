@@ -1,21 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="sc---seychelles-a" width="32" height="24" x="0" y="0"/>
-    <rect id="sc---seychelles-c" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="sc---seychelles-b" fill="#fff">
-      <use xlink:href="#sc---seychelles-a"/>
-    </mask>
-    <g mask="url(#sc---seychelles-b)">
-      <mask id="sc---seychelles-d" fill="#fff">
-        <use xlink:href="#sc---seychelles-c"/>
-      </mask>
-      <use fill="#2E42A5" xlink:href="#sc---seychelles-c"/>
-      <polygon fill="#FFD018" points="0 23.997 16.151 -2 32.302 -2" mask="url(#sc---seychelles-d)"/>
-      <polygon fill="#E31D1C" fill-rule="nonzero" points="0 23.997 34.463 10.998 34.463 -5.103" mask="url(#sc---seychelles-d)"/>
-      <polygon fill="#F7FCFF" fill-rule="nonzero" points="0 23.997 34.463 18.998 34.463 10.897" mask="url(#sc---seychelles-d)"/>
-      <polygon fill="#5EAA22" points="0 23.997 34.463 23.997 34.463 16.897" mask="url(#sc---seychelles-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/SC - Seychelles</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+        <rect id="path-3" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/SC---Seychelles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#2E42A5" xlink:href="#path-3"></use>
+                <polygon id="1" fill="#FFD018" mask="url(#mask-4)" points="1.44328993e-14 23.9965589 16.1510155 -2 32.302031 -2"></polygon>
+                <polygon id="2" fill="#E31D1C" fill-rule="nonzero" mask="url(#mask-4)" points="1.44328993e-14 23.9965589 34.4632405 10.9982795 34.4632405 -5.10332293"></polygon>
+                <polygon id="3" fill="#F7FCFF" fill-rule="nonzero" mask="url(#mask-4)" points="1.44328993e-14 23.9965589 34.4632405 18.9982795 34.4632405 10.8966771"></polygon>
+                <polygon id="4" fill="#5EAA22" mask="url(#mask-4)" points="1.44328993e-14 23.9965589 34.4632405 23.9965589 34.4632405 16.8966771"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

@@ -1,16 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="ae---united-arab-emirates-a" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="ae---united-arab-emirates-b" fill="#fff">
-      <use xlink:href="#ae---united-arab-emirates-a"/>
-    </mask>
-    <g mask="url(#ae---united-arab-emirates-b)">
-      <polygon fill="#F7FCFF" points="0 0 32 0 32 24 0 24"/>
-      <rect width="32" height="8" fill="#5EAA22"/>
-      <rect width="32" height="8" y="16" fill="#272727"/>
-      <rect width="10" height="24" fill="#E31D1C"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/AE - United Arab Emirates</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/AE---United-Arab-Emirates" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <polygon id="middle" fill="#F7FCFF" points="0 0 32 0 32 24 0 24"></polygon>
+                <rect id="top" fill="#5EAA22" x="0" y="0" width="32" height="8"></rect>
+                <rect id="bottom" fill="#272727" x="0" y="16" width="32" height="8"></rect>
+                <rect id="left" fill="#E31D1C" x="0" y="0" width="10" height="24"></rect>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

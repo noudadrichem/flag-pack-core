@@ -1,25 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="in---india-a" width="32" height="24" x="0" y="0"/>
-    <rect id="in---india-c" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="in---india-b" fill="#fff">
-      <use xlink:href="#in---india-a"/>
-    </mask>
-    <g mask="url(#in---india-b)">
-      <mask id="in---india-d" fill="#fff">
-        <use xlink:href="#in---india-c"/>
-      </mask>
-      <use fill="#F7FCFF" xlink:href="#in---india-c"/>
-      <rect width="32" height="8" fill="#FF8C1A" mask="url(#in---india-d)"/>
-      <rect width="32" height="8" y="16" fill="#5EAA22" mask="url(#in---india-d)"/>
-      <g fill="#3D58DB" mask="url(#in---india-d)">
-        <g transform="translate(12 8)">
-          <path fill-rule="nonzero" d="M4,7 C5.65685425,7 7,5.65685425 7,4 C7,2.34314575 5.65685425,1 4,1 C2.34314575,1 1,2.34314575 1,4 C1,5.65685425 2.34314575,7 4,7 Z M4,8 C1.790861,8 0,6.209139 0,4 C0,1.790861 1.790861,0 4,0 C6.209139,0 8,1.790861 8,4 C8,6.209139 6.209139,8 4,8 Z"/>
-          <polygon points="3.994 4.861 3.424 7.981 3.755 4.826 2.328 7.66 3.535 4.726 1.368 7.042 3.352 4.567 .62 6.18 3.222 4.364 .146 5.141 3.153 4.132 -.017 4.011 3.153 3.89 .146 2.881 3.222 3.658 .62 1.843 3.352 3.455 1.368 .98 3.535 3.296 2.328 .362 3.755 3.196 3.424 .041 3.994 3.161 4.565 .041 4.234 3.196 5.661 .362 4.454 3.296 6.621 .98 4.637 3.455 7.369 1.843 4.767 3.658 7.843 2.881 4.836 3.89 8.006 4.011 4.836 4.132 7.843 5.141 4.767 4.364 7.369 6.18 4.637 4.567 6.621 7.042 4.454 4.726 5.661 7.66 4.234 4.826 4.565 7.981"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/IN - India</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+        <rect id="path-3" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/IN---India" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#F7FCFF" xlink:href="#path-3"></use>
+                <rect id="top" fill="#FF8C1A" mask="url(#mask-4)" x="0" y="0" width="32" height="8"></rect>
+                <rect id="bottom" fill="#5EAA22" mask="url(#mask-4)" x="0" y="16" width="32" height="8"></rect>
+                <g id="mark" mask="url(#mask-4)" fill="#3D58DB">
+                    <g transform="translate(12.000000, 8.000000)">
+                        <path d="M4,7 C5.65685425,7 7,5.65685425 7,4 C7,2.34314575 5.65685425,1 4,1 C2.34314575,1 1,2.34314575 1,4 C1,5.65685425 2.34314575,7 4,7 Z M4,8 C1.790861,8 0,6.209139 0,4 C0,1.790861 1.790861,0 4,0 C6.209139,0 8,1.790861 8,4 C8,6.209139 6.209139,8 4,8 Z" id="Oval-23" fill-rule="nonzero"></path>
+                        <polygon id="Star-12" fill-rule="evenodd" points="3.99449172 4.8607084 3.42366023 7.98126713 3.75511441 4.82629114 2.32824262 7.6596235 3.53513003 4.72582764 1.3678146 7.04239389 3.35236041 4.56745685 0.620184345 6.17958258 3.22161244 4.36400904 0.145920403 5.1410894 3.15347855 4.13196634 -0.0165551798 4.0110469 3.15347855 3.89012746 0.145920403 2.8810044 3.22161244 3.65808476 0.620184345 1.84251123 3.35236041 3.45463695 1.3678146 0.979699913 3.53513003 3.29626616 2.32824262 0.362470305 3.75511441 3.19580266 3.42366023 0.040826674 3.99449172 3.1613854 4.56532321 0.040826674 4.23386903 3.19580266 5.66074082 0.362470305 4.45385341 3.29626616 6.62116884 0.979699913 4.63662304 3.45463695 7.3687991 1.84251123 4.767371 3.65808476 7.84306304 2.8810044 4.83550489 3.89012746 8.00553862 4.0110469 4.83550489 4.13196634 7.84306304 5.1410894 4.767371 4.36400904 7.3687991 6.17958258 4.63662304 4.56745685 6.62116884 7.04239389 4.45385341 4.72582764 5.66074082 7.6596235 4.23386903 4.82629114 4.56532321 7.98126713"></polygon>
+                    </g>
+                </g>
+            </g>
         </g>
-      </g>
     </g>
-  </g>
 </svg>

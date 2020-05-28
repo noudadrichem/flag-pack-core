@@ -1,19 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="ru---russian-federation-a" width="32" height="24" x="0" y="0"/>
-    <rect id="ru---russian-federation-c" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="ru---russian-federation-b" fill="#fff">
-      <use xlink:href="#ru---russian-federation-a"/>
-    </mask>
-    <g mask="url(#ru---russian-federation-b)">
-      <mask id="ru---russian-federation-d" fill="#fff">
-        <use xlink:href="#ru---russian-federation-c"/>
-      </mask>
-      <use fill="#3D58DB" xlink:href="#ru---russian-federation-c"/>
-      <rect width="32" height="8" fill="#F7FCFF" mask="url(#ru---russian-federation-d)"/>
-      <rect width="32" height="8" y="16" fill="#C51918" mask="url(#ru---russian-federation-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/RU - Russian Federation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+        <rect id="path-3" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/RU---Russian-Federation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#3D58DB" xlink:href="#path-3"></use>
+                <rect id="top" fill="#F7FCFF" mask="url(#mask-4)" x="0" y="0" width="32" height="8"></rect>
+                <rect id="bottom" fill="#C51918" mask="url(#mask-4)" x="0" y="16" width="32" height="8"></rect>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

@@ -1,17 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="sy---syria-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="sy---syria-b" fill="#fff">
-      <use xlink:href="#sy---syria-a"/>
-    </mask>
-    <g mask="url(#sy---syria-b)">
-      <polygon fill="#F7FCFF" points="0 0 16 0 16 12 0 12"/>
-      <polygon fill="#409100" points="4.501 6.935 3.566 7.5 3.779 6.398 3 5.573 4.055 5.529 4.501 4.5 4.947 5.529 6 5.529 5.223 6.398 5.457 7.5"/>
-      <polygon fill="#409100" points="11.501 6.935 10.566 7.5 10.779 6.398 10 5.573 11.055 5.529 11.501 4.5 11.947 5.529 13 5.529 12.223 6.398 12.457 7.5"/>
-      <rect width="16" height="4" fill="#E31D1C"/>
-      <rect width="16" height="4" y="8" fill="#272727"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/SY - Syria</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/SY---Syria" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <polygon id="middle" fill="#F7FCFF" points="0 0 16 0 16 12 0 12"></polygon>
+                <polygon id="Star-5" fill="#409100" points="4.5008972 6.93533919 3.56556151 7.5 3.77890566 6.39812084 3 5.57347264 4.05468189 5.52888328 4.5008972 4.5 4.94711251 5.52888328 6 5.52888328 5.22288874 6.39812084 5.45684528 7.5"></polygon>
+                <polygon id="Star-5" fill="#409100" points="11.5008972 6.93533919 10.5655615 7.5 10.7789057 6.39812084 10 5.57347264 11.0546819 5.52888328 11.5008972 4.5 11.9471125 5.52888328 13 5.52888328 12.2228887 6.39812084 12.4568453 7.5"></polygon>
+                <rect id="top" fill="#E31D1C" x="0" y="0" width="16" height="4"></rect>
+                <rect id="bottom" fill="#272727" x="0" y="8" width="16" height="4"></rect>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

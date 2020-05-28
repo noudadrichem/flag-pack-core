@@ -1,17 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="tg---togo-a" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="tg---togo-b" fill="#fff">
-      <use xlink:href="#tg---togo-a"/>
-    </mask>
-    <g mask="url(#tg---togo-b)">
-      <path fill="#5EAA22" fill-rule="nonzero" stroke="#F7FCFF" stroke-width="2" d="M-1,-1 L33,-1 L33,25 L-1,25 L-1,-1 Z"/>
-      <rect width="32" height="4" y="6" fill="#FECA00"/>
-      <rect width="32" height="4" y="14" fill="#FECA00"/>
-      <rect width="16" height="14" fill="#F50101"/>
-      <polygon fill="#F7FCFF" points="8.25 10.144 4.531 12.446 5.975 8.582 3 5.979 6.648 5.979 8.25 2.13 9.473 5.979 13.077 5.979 10.545 8.582 11.791 12.256"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/TG - Togo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/TG---Togo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <path d="M-1,-1 L33,-1 L33,25 L-1,25 L-1,-1 Z" id="middle" stroke="#F7FCFF" stroke-width="2" fill="#5EAA22" fill-rule="nonzero"></path>
+                <rect id="stripe" fill="#FECA00" x="0" y="6" width="32" height="4"></rect>
+                <rect id="stripe" fill="#FECA00" x="0" y="14" width="32" height="4"></rect>
+                <rect id="Rectangle-82" fill="#F50101" x="0" y="0" width="16" height="14"></rect>
+                <polygon id="Star-5" fill="#F7FCFF" points="8.25 10.1441584 4.53067866 12.445614 5.97462576 8.58204623 3 5.97916125 6.64778287 5.97916125 8.25 2.1298045 9.47269715 5.97916125 13.076591 5.97916125 10.5454331 8.58204623 11.7910849 12.2560816"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

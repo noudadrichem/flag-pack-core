@@ -1,17 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="jm---jamaica-a" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="jm---jamaica-b" fill="#fff">
-      <use xlink:href="#jm---jamaica-a"/>
-    </mask>
-    <g mask="url(#jm---jamaica-b)">
-      <g transform="translate(-1)">
-        <polygon fill="#093" points="1 0 33 0 33 24 1 24"/>
-        <path fill="#272727" stroke="#FECA00" stroke-width="2.7" d="M-1.35,-2.86483791 L16.6584757,12 L-1.35,26.8648379 L-1.35,-2.86483791 Z"/>
-        <path fill="#272727" stroke="#FECA00" stroke-width="2.7" d="M17.4311589,-2.78365482 L36.1803334,12 L17.4311589,26.7836548 L17.4311589,-2.78365482 Z" transform="matrix(-1 0 0 1 52.781 0)"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/JM - Jamaica</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/JM---Jamaica" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <g transform="translate(-2.000000, 0.000000)">
+                    <polygon id="background" stroke="none" fill="#009933" points="2 0 34 0 34 24 2 24"></polygon>
+                    <path d="M-0.35,-2.86483791 L17.6584757,12 L-0.35,26.8648379 L-0.35,-2.86483791 Z" id="triangle" stroke="#FECA00" stroke-width="2.7" fill="#272727"></path>
+                    <path d="M18.4311589,-2.78365482 L37.1803334,12 L18.4311589,26.7836548 L18.4311589,-2.78365482 Z" id="triangle" stroke="#FECA00" stroke-width="2.7" fill="#272727" transform="translate(27.390579, 12.000000) scale(-1, 1) translate(-27.390579, -12.000000) "></path>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

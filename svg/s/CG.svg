@@ -1,18 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="cg---republic-of-the-congo-a" width="16" height="12" x="0" y="0" rx=".25"/>
-    <polygon id="cg---republic-of-the-congo-c" points="15.746 .1 .5 14.788 3.526 16.294 18.32 2.894"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="cg---republic-of-the-congo-b" fill="#fff">
-      <use xlink:href="#cg---republic-of-the-congo-a"/>
-    </mask>
-    <g mask="url(#cg---republic-of-the-congo-b)">
-      <g transform="translate(-1 -3)">
-        <polygon fill="#FA1111" points="17 3 17 15 1 15"/>
-        <polygon fill="#07A907" points="17 3 17 15 1 15" transform="rotate(180 9 9)"/>
-        <use fill="#FBCD17" xlink:href="#cg---republic-of-the-congo-c"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/CG - Republic of the Congo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12" rx="0.25"></rect>
+        <polygon id="path-3" points="15.7458759 0.0999984741 0.5 14.7880388 3.52581586 16.293984 18.3203273 2.89400498"></polygon>
+    </defs>
+    <g id="flags/S/CG---Republic-of-the-Congo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <g transform="translate(-1.000000, -3.000000)" id="yellow">
+                    <g>
+                        <polygon id="base---red" fill="#FA1111" points="17 3 17 15 1 15"></polygon>
+                        <polygon id="base---green" fill="#07A907" transform="translate(9.000000, 9.000000) scale(-1, -1) translate(-9.000000, -9.000000) " points="17 3 17 15 1 15"></polygon>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="red-with-yellow-strokes" fill="#FBCD17" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

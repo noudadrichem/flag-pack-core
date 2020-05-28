@@ -1,20 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="mh---marshall-islands-a" width="32" height="24" x="0" y="0"/>
-    <rect id="mh---marshall-islands-c" width="32" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="mh---marshall-islands-b" fill="#fff">
-      <use xlink:href="#mh---marshall-islands-a"/>
-    </mask>
-    <g mask="url(#mh---marshall-islands-b)">
-      <mask id="mh---marshall-islands-d" fill="#fff">
-        <use xlink:href="#mh---marshall-islands-c"/>
-      </mask>
-      <use fill="#3D58DB" xlink:href="#mh---marshall-islands-c"/>
-      <polygon fill="#F7FCFF" points="8 11 7.183 13.944 7.191 10.889 5.61 13.503 6.441 10.563 4.213 12.654 5.807 10.048 3.098 11.46 5.336 9.38 2.346 10.009 5.063 8.61 2.014 8.409 5.007 7.795 2.125 6.779 5.173 6.995 2.673 5.24 5.549 6.27 3.615 3.905 6.107 5.673 4.882 2.873 6.805 5.248 6.381 2.222 7.592 5.028 8 2 8.408 5.028 9.619 2.222 9.195 5.248 11.118 2.873 9.893 5.673 12.385 3.905 10.451 6.27 13.327 5.24 10.827 6.995 13.875 6.779 10.993 7.795 13.986 8.409 10.937 8.61 13.654 10.009 10.664 9.38 12.902 11.46 10.193 10.048 11.787 12.654 9.559 10.563 10.39 13.503 8.809 10.889 8.817 13.944" mask="url(#mh---marshall-islands-d)"/>
-      <polygon fill="#FFF" fill-rule="nonzero" points="-.782 24.745 33.258 1.215 33.258 8.886" mask="url(#mh---marshall-islands-d)"/>
-      <polygon fill="#E2AE57" fill-rule="nonzero" points="-.782 24.745 33.258 -4.785 33.258 2.886" mask="url(#mh---marshall-islands-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/MH - Marshall Islands</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+        <rect id="path-3" x="0" y="0" width="32" height="24"></rect>
+    </defs>
+    <g id="flags/L/MH---Marshall-Islands" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#3D58DB" xlink:href="#path-3"></use>
+                <polygon id="Star-16" fill="#F7FCFF" mask="url(#mask-4)" points="8 11 7.18300011 13.9441157 7.19060969 10.8887519 5.60959346 13.5032678 6.44124815 10.5632582 4.21347233 12.6542677 5.80749211 10.0476594 3.09818064 11.4600819 5.33634434 9.38019511 2.34643447 10.0092777 5.06274774 8.61036804 2.01398738 8.40945448 5.00699369 7.79527276 2.12549547 6.77926392 5.17321723 6.99536116 2.67268869 5.23960977 5.54909032 6.26995903 3.61498421 3.90468114 6.10673617 5.67286613 4.8824963 2.87348357 6.80479673 5.2483661 6.38121937 2.22249628 7.59150005 5.02794216 8 2 8.40849995 5.02794216 9.61878063 2.22249628 9.19520327 5.2483661 11.1175037 2.87348357 9.89326383 5.67286613 12.3850158 3.90468114 10.4509097 6.26995903 13.3273113 5.23960977 10.8267828 6.99536116 13.8745045 6.77926392 10.9930063 7.79527276 13.9860126 8.40945448 10.9372523 8.61036804 13.6535655 10.0092777 10.6636557 9.38019511 12.9018194 11.4600819 10.1925079 10.0476594 11.7865277 12.6542677 9.55875185 10.5632582 10.3904065 13.5032678 8.80939031 10.8887519 8.81699989 13.9441157"></polygon>
+                <polygon id="white" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-4)" points="-0.781995104 24.7452664 33.2582633 1.21483789 33.2582633 8.88560566"></polygon>
+                <polygon id="gold" fill="#E2AE57" fill-rule="nonzero" mask="url(#mask-4)" points="-0.781995104 24.7452664 33.2582633 -4.78516211 33.2582633 2.88560566"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

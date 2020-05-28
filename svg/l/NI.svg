@@ -1,40 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="ni---nicaragua-a" width="32" height="24" x="0" y="0"/>
-    <rect id="ni---nicaragua-c" width="32" height="24" x="0" y="0"/>
-    <polygon id="ni---nicaragua-e" points="2.738 .004 .002 4.735 5.518 4.735"/>
-    <circle id="ni---nicaragua-g" cx="2.764" cy="3.782" r="1.891"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="ni---nicaragua-b" fill="#fff">
-      <use xlink:href="#ni---nicaragua-a"/>
-    </mask>
-    <g mask="url(#ni---nicaragua-b)">
-      <mask id="ni---nicaragua-d" fill="#fff">
-        <use xlink:href="#ni---nicaragua-c"/>
-      </mask>
-      <use fill="#F7FCFF" xlink:href="#ni---nicaragua-c"/>
-      <rect width="32" height="8" fill="#0080EC" mask="url(#ni---nicaragua-d)"/>
-      <rect width="32" height="8" y="16" fill="#0080EC" mask="url(#ni---nicaragua-d)"/>
-      <g mask="url(#ni---nicaragua-d)">
-        <g transform="translate(12 8)">
-          <path fill="#D0AB00" fill-rule="nonzero" d="M0.57679236,6.07035372 L1.83627778,5.63043369 C2.28764647,6.22849469 2.98123549,6.63349561 3.7711715,6.6995631 L3.7711715,7.99356431 C2.41576619,7.91712045 1.24076499,7.1658421 0.57679236,6.07035372 Z M0.00361070845,4.17151079 C0.00121162095,4.11463962 0,4.05746131 0,4 C0,2.30156405 1.05855674,0.850367278 2.55191094,0.27016894 L2.88577983,1.52991863 C1.95085931,1.95231037 1.2985928,2.88989796 1.2909765,3.98068519 L0.00361070845,4.17151079 Z M4.29630303,7.98919182 L4.29630303,6.69307298 C5.03697666,6.61250238 5.6880089,6.23338138 6.12654506,5.6785647 L7.51344824,5.91356731 C6.87957008,7.07495071 5.68662361,7.88739027 4.29630303,7.98919182 Z M7.9951617,4.19847708 L6.70764598,4.08932798 C6.70860679,4.05967 6.70909091,4.02989154 6.70909091,4 C6.70909091,2.78395591 5.90787262,1.75504637 4.80453917,1.41237451 L5.15211715,0.168413153 C6.79963629,0.663109955 8,2.19137499 8,4 C8,4.06655114 7.99837473,4.13272267 7.9951617,4.19847708 Z M4.55538375,0.0382460675 L4.35729033,1.31426042 C4.2403787,1.29885725 4.12111754,1.29090909 4,1.29090909 C3.8238599,1.29090909 3.65164599,1.30771913 3.48487503,1.33982244 L3.39230622,0.0458651547 C3.59046419,0.0156625991 3.793403,0 4,0 C4.18845591,0 4.37386787,0.0130327279 4.55538375,0.0382460675 Z"/>
-          <g transform="translate(1.236 .945)">
-            <mask id="ni---nicaragua-f" fill="#fff">
-              <use xlink:href="#ni---nicaragua-e"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/NI - Nicaragua</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+        <rect id="path-3" x="0" y="0" width="32" height="24"></rect>
+        <polygon id="path-5" points="2.73846203 0.00427551892 0.00157222827 4.73505068 5.51830435 4.73505068"></polygon>
+        <circle id="path-7" cx="2.76363636" cy="3.78181818" r="1.89090909"></circle>
+    </defs>
+    <g id="flags/L/NI---Nicaragua" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
             </mask>
-            <use fill="#7CDFFF" xlink:href="#ni---nicaragua-e"/>
-            <g mask="url(#ni---nicaragua-f)">
-              <circle cx="2.764" cy="3.782" r="2.391" stroke="#E31D1C"/>
-              <circle cx="2.764" cy="3.782" r="2.391" stroke="#FFD018"/>
-              <circle cx="2.764" cy="3.782" r="2.391" stroke="#4EDD00"/>
-              <use stroke="#3D58DB" xlink:href="#ni---nicaragua-g"/>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#F7FCFF" xlink:href="#path-3"></use>
+                <rect id="top" fill="#0080EC" mask="url(#mask-4)" x="0" y="0" width="32" height="8"></rect>
+                <rect id="bottom" fill="#0080EC" mask="url(#mask-4)" x="0" y="16" width="32" height="8"></rect>
+                <g id="mark" mask="url(#mask-4)">
+                    <g transform="translate(12.000000, 8.000000)">
+                        <path d="M3.77148191,6.69958904 L3.77117942,7.99356475 C2.41568484,7.91711853 1.2406173,7.16574898 0.576666092,6.07014537 L1.83660539,5.63086768 C2.28804117,6.22876894 2.98160828,6.63361766 3.77148191,6.69958904 Z M6.12596357,5.67930011 L7.51352876,5.91341976 C6.87978064,7.07468121 5.68709474,7.88710517 4.29702373,7.98913898 L4.29658163,6.69304266 C5.03681262,6.61244294 5.68748851,6.23364684 6.12596357,5.67930011 Z M8,4 L7.995,4.198 L6.7076461,4.08932403 C6.70860684,4.05966735 6.70909091,4.02989021 6.70909091,4 C6.70909091,2.78385782 5.90774337,1.75488039 4.80427219,1.4122916 L5.15228678,0.16846409 C6.79971868,0.663214852 8,2.19143707 8,4 Z M2.55121992,0.270437491 L2.8853464,1.53011449 C1.95085699,1.95251009 1.29886966,2.88966684 1.29098146,3.97998769 L0.00361861623,4.17169815 C0.00121428343,4.1147652 0,4.05752441 0,4 C0,2.30182604 1.05823019,0.850814983 2.55121992,0.270437491 Z M4,0 C4.1881287,0 4.373224,0.01298751 4.55443822,0.0381148446 L4.35777353,1.31432413 C4.24070731,1.29887916 4.12128441,1.29090909 4,1.29090909 C3.82352093,1.29090909 3.65098317,1.30778389 3.48391227,1.34000796 L3.39276186,0.0457957348 C3.59077527,0.0156385994 3.79356134,0 4,0 Z" id="Oval-36" fill="#D0AB00" fill-rule="nonzero"></path>
+                        <g id="triangle" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.236364, 0.945455)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Path-180" fill="#7CDFFF" xlink:href="#path-5"></use>
+                            <g id="Oval-35" mask="url(#mask-6)">
+                                <circle stroke="#E31D1C" cx="2.76363636" cy="3.78181818" r="2.39090909"></circle>
+                                <circle stroke="#FFD018" cx="2.76363636" cy="3.78181818" r="2.39090909"></circle>
+                                <circle stroke="#4EDD00" cx="2.76363636" cy="3.78181818" r="2.39090909"></circle>
+                                <use stroke="#3D58DB" xlink:href="#path-7"></use>
+                            </g>
+                            <rect id="Rectangle-47" fill="#3D58DB" mask="url(#mask-6)" x="-0.218181818" y="3.27272727" width="6.25454545" height="1.81818182"></rect>
+                            <polygon id="Path-181" fill="#97C923" mask="url(#mask-6)" points="0.200560861 4.04546697 1.44714652 2.80581659 1.82972012 3.42564178 2.09698844 2.66975839 2.39380513 3.23635579 2.70558114 2.80581659 3.1089645 3.23635579 3.47880046 2.66975839 3.79494578 3.23635579 4.15767236 2.80581659 5.00524397 3.7065007 5.15779945 4.04546697 0.200560861 4.29692659"></polygon>
+                        </g>
+                    </g>
+                </g>
             </g>
-            <rect width="6.255" height="1.818" x="-.218" y="3.273" fill="#3D58DB" mask="url(#ni---nicaragua-f)"/>
-            <polygon fill="#97C923" points=".201 4.045 1.447 2.806 1.83 3.426 2.097 2.67 2.394 3.236 2.706 2.806 3.109 3.236 3.479 2.67 3.795 3.236 4.158 2.806 5.005 3.707 5.158 4.045 .201 4.297" mask="url(#ni---nicaragua-f)"/>
-          </g>
         </g>
-      </g>
     </g>
-  </g>
 </svg>

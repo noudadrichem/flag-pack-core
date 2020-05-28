@@ -1,24 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="ba---bosnia-and-herzegovina-a" width="34" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="ba---bosnia-and-herzegovina-b" fill="#fff">
-      <use xlink:href="#ba---bosnia-and-herzegovina-a"/>
-    </mask>
-    <g mask="url(#ba---bosnia-and-herzegovina-b)">
-      <g transform="translate(0 -1)">
-        <polygon fill="#2E42A5" points="0 1 32 1 32 25 0 25"/>
-        <polygon fill="#FECA00" points="9 1 29 1 29 25"/>
-        <g transform="translate(4)">
-          <polygon fill="#F7FCFF" points="2.108 3.794 .932 4.412 1.157 3.103 .206 2.176 1.52 1.985 2.108 .794 2.696 1.985 4.01 2.176 3.059 3.103 3.284 4.412"/>
-          <polygon fill="#F7FCFF" points="5.595 8.074 4.419 8.692 4.644 7.383 3.693 6.456 5.007 6.265 5.595 5.074 6.183 6.265 7.497 6.456 6.546 7.383 6.77 8.692"/>
-          <polygon fill="#F7FCFF" points="8.863 12.238 7.688 12.856 7.912 11.547 6.961 10.62 8.276 10.429 8.863 9.238 9.451 10.429 10.766 10.62 9.814 11.547 10.039 12.856"/>
-          <polygon fill="#F7FCFF" points="12.065 16.229 10.89 16.847 11.114 15.538 10.163 14.611 11.478 14.42 12.065 13.229 12.653 14.42 13.967 14.611 13.016 15.538 13.241 16.847"/>
-          <polygon fill="#F7FCFF" points="15.514 20.337 14.339 20.955 14.563 19.646 13.612 18.719 14.927 18.528 15.514 17.337 16.102 18.528 17.417 18.719 16.465 19.646 16.69 20.955"/>
-          <polygon fill="#F7FCFF" points="19.327 24.311 18.151 24.929 18.376 23.62 17.425 22.693 18.739 22.502 19.327 21.311 19.915 22.502 21.229 22.693 20.278 23.62 20.502 24.929"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/BA - Bosnia and Herzegovina</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="34" height="24"></rect>
+    </defs>
+    <g id="flags/L/BA---Bosnia-and-Herzegovina" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <g transform="translate(0.000000, -2.000000)">
+                    <polygon id="background" fill="#2E42A5" points="0 2 32 2 32 26 0 26"></polygon>
+                    <polygon id="middle" fill="#FECA00" points="9 2 29 2 29 26"></polygon>
+                    <g id="mark" stroke-width="1" fill="none" transform="translate(3.000000, 0.000000)">
+                        <polygon id="Star-3" fill="#F7FCFF" points="3.10803313 4.79377932 1.93246262 5.41181331 2.15697661 4.10279631 1.2059201 3.17574533 2.52024788 2.98476232 3.10803313 1.79377932 3.69581838 2.98476232 5.01014616 3.17574533 4.05908965 4.10279631 4.28360363 5.41181331"></polygon>
+                        <polygon id="Star-3" fill="#F7FCFF" points="6.59472003 9.07391616 5.41914952 9.69195015 5.64366351 8.38293316 4.692607 7.45588217 6.00693478 7.26489917 6.59472003 6.07391616 7.18250528 7.26489917 8.49683306 7.45588217 7.54577655 8.38293316 7.77029053 9.69195015"></polygon>
+                        <polygon id="Star-3" fill="#F7FCFF" points="9.86341436 13.2384474 8.68784385 13.8564814 8.91235784 12.5474644 7.96130133 11.6204134 9.27562911 11.4294304 9.86341436 10.2384474 10.4511996 11.4294304 11.7655274 11.6204134 10.8144709 12.5474644 11.0389849 13.8564814"></polygon>
+                        <polygon id="Star-3" fill="#F7FCFF" points="13.0653684 17.2292491 11.8897979 17.8472831 12.1143119 16.5382661 11.1632554 15.6112151 12.4775831 15.4202321 13.0653684 14.2292491 13.6531537 15.4202321 14.9674814 15.6112151 14.0164249 16.5382661 14.2409389 17.8472831"></polygon>
+                        <polygon id="Star-3" fill="#F7FCFF" points="16.5144294 21.3367804 15.3388589 21.9548144 15.5633729 20.6457974 14.6123164 19.7187464 15.9266442 19.5277634 16.5144294 18.3367804 17.1022147 19.5277634 18.4165425 19.7187464 17.4654859 20.6457974 17.6899999 21.9548144"></polygon>
+                        <polygon id="Star-3" fill="#F7FCFF" points="20.3268453 25.3110441 19.1512748 25.9290781 19.3757887 24.6200611 18.4247322 23.6930101 19.73906 23.5020271 20.3268453 22.3110441 20.9146305 23.5020271 22.2289583 23.6930101 21.2779018 24.6200611 21.5024158 25.9290781"></polygon>
+                    </g>
+                </g>
+            </g>
         </g>
-      </g>
     </g>
-  </g>
 </svg>

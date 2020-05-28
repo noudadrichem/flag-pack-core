@@ -1,18 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="bq-sb---saba-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="bq-sb---saba-b" fill="#fff">
-      <use xlink:href="#bq-sb---saba-a"/>
-    </mask>
-    <g mask="url(#bq-sb---saba-b)">
-      <polygon fill="#FFF" points="0 0 16 0 16 12 0 12"/>
-      <polygon fill="#F00000" points="0 5.832 0 0 8 0"/>
-      <polygon fill="#F00000" points="8 5.832 8 0 16 0" transform="matrix(-1 0 0 1 24 0)"/>
-      <polygon fill="#00268D" points="0 12 0 5.832 8 5.832" transform="matrix(1 0 0 -1 0 17.832)"/>
-      <polygon fill="#00268D" points="8 12.168 8 5.832 16 6" transform="rotate(180 12 9)"/>
-      <polygon fill="#FEDA00" points="7.857 7.128 6.098 8.382 6.744 6.311 5 5.043 7.172 5.043 7.857 3 8.583 5.043 10.696 5.043 8.967 6.311 9.624 8.382"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/BQ-SA - Saba</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/BQ-SA---Saba" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <polygon id="bg" fill="#FFFFFF" points="0 0 16 0 16 12 0 12"></polygon>
+                <polygon id="Path-448" fill="#F00000" points="0 5.832 0 0 8 0"></polygon>
+                <polygon id="Path-448" fill="#F00000" transform="translate(12.000000, 2.916000) scale(-1, 1) translate(-12.000000, -2.916000) " points="8 5.832 8 0 16 0"></polygon>
+                <polygon id="Path-448" fill="#00268D" transform="translate(4.000000, 8.916000) scale(1, -1) translate(-4.000000, -8.916000) " points="0 12 0 5.832 8 5.832"></polygon>
+                <polygon id="Path-448" fill="#00268D" transform="translate(12.000000, 9.000000) scale(-1, -1) translate(-12.000000, -9.000000) " points="8 12.168 8 5.832 16 6"></polygon>
+                <polygon id="Star" fill="#FEDA00" points="7.8569909 7.12813393 6.098267 8.38164179 6.7436343 6.31100813 5 5.04349755 7.17228537 5.04349755 7.8569909 3 8.58274174 5.04349755 10.6958803 5.04349755 8.96742859 6.31100813 9.62443896 8.38164179"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

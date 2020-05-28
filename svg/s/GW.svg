@@ -1,16 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="gw---guinea-bissau-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="gw---guinea-bissau-b" fill="#fff">
-      <use xlink:href="#gw---guinea-bissau-a"/>
-    </mask>
-    <g mask="url(#gw---guinea-bissau-b)">
-      <rect width="8" height="6" x="8" fill="#FBCD17"/>
-      <rect width="8" height="6" x="8" y="6" fill="#0B9E7A"/>
-      <rect width="8" height="12" fill="#E11C1B"/>
-      <polygon fill="#1D1D1D" points="4.465 7.303 2.723 8.512 3.279 6.442 2 5.119 3.732 5.047 4.465 3 5.198 5.047 6.928 5.047 5.651 6.442 6.291 8.39"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/GW - Guinea-Bissau</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/GW---Guinea-Bissau" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <rect id="middle" fill="#FBCD17" x="8" y="0" width="8" height="6"></rect>
+                <rect id="right" fill="#0B9E7A" x="8" y="6" width="8" height="6"></rect>
+                <rect id="left" fill="#E11C1B" x="0" y="0" width="8" height="12"></rect>
+                <polygon id="Star-5" fill="#1D1D1D" points="4.46532724 7.30314424 2.72251295 8.51199354 3.27940631 6.44152225 2 5.11890361 3.7323878 5.04738859 4.46532724 3 5.19826668 5.04738859 6.92770706 5.04738859 5.65124817 6.44152225 6.29051909 8.38978921"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

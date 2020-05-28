@@ -1,23 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="rainbow-a" width="16" height="12" x="0" y="0"/>
-    <rect id="rainbow-c" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="rainbow-b" fill="#fff">
-      <use xlink:href="#rainbow-a"/>
-    </mask>
-    <g mask="url(#rainbow-b)">
-      <mask id="rainbow-d" fill="#fff">
-        <use xlink:href="#rainbow-c"/>
-      </mask>
-      <use fill="#F7FCFF" xlink:href="#rainbow-c"/>
-      <rect width="16" height="2" fill="#FF0122" mask="url(#rainbow-d)"/>
-      <rect width="16" height="2" y="2" fill="#FF8C01" mask="url(#rainbow-d)"/>
-      <rect width="16" height="2" y="4" fill="#FECA00" mask="url(#rainbow-d)"/>
-      <rect width="16" height="2" y="6" fill="#73BE4A" mask="url(#rainbow-d)"/>
-      <rect width="16" height="2" y="8" fill="#5770ED" mask="url(#rainbow-d)"/>
-      <rect width="16" height="2" y="10" fill="#871FF0" mask="url(#rainbow-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/RAINBOW</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/RAINBOW" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#F7FCFF" xlink:href="#path-3"></use>
+                <rect id="bottom" fill="#FF0122" mask="url(#mask-4)" x="0" y="0" width="16" height="2"></rect>
+                <rect id="bottom" fill="#FF8C01" mask="url(#mask-4)" x="0" y="2" width="16" height="2"></rect>
+                <rect id="bottom" fill="#FECA00" mask="url(#mask-4)" x="0" y="4" width="16" height="2"></rect>
+                <rect id="bottom" fill="#73BE4A" mask="url(#mask-4)" x="0" y="6" width="16" height="2"></rect>
+                <rect id="bottom" fill="#5770ED" mask="url(#mask-4)" x="0" y="8" width="16" height="2"></rect>
+                <rect id="bottom" fill="#871FF0" mask="url(#mask-4)" x="0" y="10" width="16" height="2"></rect>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

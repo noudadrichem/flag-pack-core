@@ -1,20 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="se---sweden-a" width="16" height="12" x="0" y="0"/>
-    <rect id="se---sweden-c" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="se---sweden-b" fill="#fff">
-      <use xlink:href="#se---sweden-a"/>
-    </mask>
-    <g mask="url(#se---sweden-b)">
-      <mask id="se---sweden-d" fill="#fff">
-        <use xlink:href="#se---sweden-c"/>
-      </mask>
-      <use fill="#3D58DB" xlink:href="#se---sweden-c"/>
-      <g fill="#FECA00" mask="url(#se---sweden-d)">
-        <polygon points="5 0 7 0 7 5 16 5 16 7 7 7 7 12 5 12 5 7 0 7 0 5 5 5"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/SE - Sweden</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/SE---Sweden" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#3D58DB" xlink:href="#path-3"></use>
+                <g id="mark" mask="url(#mask-4)" fill="#FECA00">
+                    <polygon id="cross" points="5 0 7 0 7 5 16 5 16 7 7 7 7 12 5 12 5 7 0 7 0 5 5 5"></polygon>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

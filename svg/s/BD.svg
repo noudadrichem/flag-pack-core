@@ -1,21 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="bd---bangladesh-a" width="16" height="12" x="0" y="0"/>
-    <circle id="bd---bangladesh-d" cx="6" cy="6" r="3"/>
-    <filter id="bd---bangladesh-c" width="200%" height="200%" x="-50%" y="-50%" filterUnits="objectBoundingBox">
-      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
-      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.443137255   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="bd---bangladesh-b" fill="#fff">
-      <use xlink:href="#bd---bangladesh-a"/>
-    </mask>
-    <g mask="url(#bd---bangladesh-b)">
-      <rect width="16" height="12" fill="#38A17E" rx="1"/>
-      <use fill="#000" filter="url(#bd---bangladesh-c)" xlink:href="#bd---bangladesh-d"/>
-      <use fill="#F72E45" xlink:href="#bd---bangladesh-d"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/BD - Bangladesh</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <circle id="path-3" cx="6" cy="6" r="3"></circle>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.443137255   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="flags/S/BD---Bangladesh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <rect id="background" fill="#38A17E" x="0" y="0" width="16" height="12" rx="1"></rect>
+                <g id="Oval-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#F72E45" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

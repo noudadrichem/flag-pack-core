@@ -1,34 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="gb-ukm---united-kingdom-a" width="16" height="12" x="0" y="0"/>
-    <rect id="gb-ukm---united-kingdom-c" width="16" height="12" x="0" y="0"/>
-    <rect id="gb-ukm---united-kingdom-e" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="gb-ukm---united-kingdom-b" fill="#fff">
-      <use xlink:href="#gb-ukm---united-kingdom-a"/>
-    </mask>
-    <g mask="url(#gb-ukm---united-kingdom-b)">
-      <mask id="gb-ukm---united-kingdom-d" fill="#fff">
-        <use xlink:href="#gb-ukm---united-kingdom-c"/>
-      </mask>
-      <use fill="#2E42A5" xlink:href="#gb-ukm---united-kingdom-c"/>
-      <g mask="url(#gb-ukm---united-kingdom-d)">
-        <mask id="gb-ukm---united-kingdom-f" fill="#fff">
-          <use xlink:href="#gb-ukm---united-kingdom-e"/>
-        </mask>
-        <g mask="url(#gb-ukm---united-kingdom-f)">
-          <g transform="translate(-2.556 -1.714)">
-            <polygon fill="#FFF" fill-rule="nonzero" points=".774 2.112 4.295 .623 18.635 11.636 20.493 13.848 16.728 14.346 10.878 9.6 6.17 6.403" transform="matrix(1 0 0 -1 0 14.969)"/>
-            <polygon fill="#F50100" fill-rule="nonzero" points="1.256 1.779 3.05 .915 19.826 14.764 17.307 14.764" transform="matrix(1 0 0 -1 0 15.68)"/>
-            <g transform="matrix(-1 0 0 1 21.111 0)">
-              <polygon fill="#FFF" fill-rule="nonzero" points=".774 2.112 4.295 .623 18.635 11.636 20.493 13.848 16.728 14.346 10.878 9.6 6.17 6.403" transform="matrix(1 0 0 -1 0 14.969)"/>
-              <polygon fill="#F50100" fill-rule="nonzero" points=".894 1.992 2.688 1.128 9.831 7.058 11.949 7.72 20.671 14.47 18.153 14.47 9.435 7.88 7.12 7.086" transform="matrix(1 0 0 -1 0 15.598)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/GB-UKM - United Kingdom</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-5" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/GB-UKM---United-Kingdom" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#2E42A5" xlink:href="#path-3"></use>
+                <g id="mark-1" mask="url(#mask-4)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="mask"></g>
+                    <g id="contents" mask="url(#mask-6)">
+                        <g transform="translate(-2.555556, -1.714286)">
+                            <g id="stripe">
+                                <polygon id="white" fill="#FFFFFF" fill-rule="nonzero" transform="translate(10.633300, 7.484404) scale(1, -1) translate(-10.633300, -7.484404) " points="0.773985549 2.11181912 4.29483039 0.622790172 18.6354492 11.6355997 20.4926144 13.848341 16.7275774 14.3460184 10.8783817 9.60028367 6.17038044 6.40276735"></polygon>
+                                <polygon id="red" fill="#F50100" fill-rule="nonzero" transform="translate(10.540857, 7.839612) scale(1, -1) translate(-10.540857, -7.839612) " points="1.2559945 1.77898577 3.04970237 0.914877175 19.8257192 14.7643476 17.3071446 14.7643476"></polygon>
+                            </g>
+                            <g id="stripe" transform="translate(10.611111, 7.500000) scale(-1, 1) translate(-10.611111, -7.500000) translate(0.111111, 0.000000)">
+                                <polygon id="white" fill="#FFFFFF" fill-rule="nonzero" transform="translate(10.633300, 7.484404) scale(1, -1) translate(-10.633300, -7.484404) " points="0.773985549 2.11181912 4.29483039 0.622790172 18.6354492 11.6355997 20.4926144 13.848341 16.7275774 14.3460184 10.8783817 9.60028367 6.17038044 6.40276735"></polygon>
+                                <polygon id="red" fill="#F50100" fill-rule="nonzero" transform="translate(10.782718, 7.798938) scale(1, -1) translate(-10.782718, -7.798938) " points="0.894121 1.99215352 2.68782887 1.12804493 9.83123069 7.0577227 11.949096 7.72023136 20.6713145 14.4698301 18.1527399 14.4698301 9.43542189 7.8804382 7.11990933 7.08601933"></polygon>
+                            </g>
+                            <g id="cross" transform="translate(1.555556, 0.714286)">
+                                <path d="M10.3888768,0.5 L7.61107676,0.5 L7.61073318,5.5 L0.513767538,5.5 L0.513767538,8.5 L7.61073318,8.5 L7.61107676,13.5 L10.3888768,13.5 L10.3887554,8.5 L17.5137675,8.5 L17.5137675,5.5 L10.3887554,5.5 L10.3888768,0.5 Z" id="red" stroke="#FFFFFF" fill="#F50100"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
             </g>
-            <path fill="#F50100" stroke="#FFF" d="M0.513767538,5.5 L0.513767538,8.5 L7.61111111,8.5 L7.61111111,13.5 L10.3888889,13.5 L10.3888889,8.5 L17.5137675,8.5 L17.5137675,5.5 L10.3888889,5.5 L10.3888889,0.5 L7.61111111,0.5 L7.61111111,5.5 L0.513767538,5.5 Z" transform="translate(1.556 .714)"/>
-          </g>
         </g>
-      </g>
     </g>
-  </g>
 </svg>

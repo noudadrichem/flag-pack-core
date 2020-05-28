@@ -1,22 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="24" viewBox="0 0 32 24">
-  <defs>
-    <rect id="mt---malta-a" width="32" height="24" x="0" y="0"/>
-    <rect id="mt---malta-c" width="16" height="24" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="mt---malta-b" fill="#fff">
-      <use xlink:href="#mt---malta-a"/>
-    </mask>
-    <use fill="#F7FCFF" xlink:href="#mt---malta-a"/>
-    <path fill="#A0A0A0" stroke="#FECA00" d="M13.5,11.5 L13.5,8.5 L10.3138676,8.5 L10.3313612,7.98308838 C10.3316072,7.97436901 10.3316072,7.97436901 10.331657,7.96556156 C10.331657,7.72086344 10.1543735,7.51297393 9.91643127,7.47263747 L9.5,7.4020432 L9.5,4.5 L6.5,4.5 L6.5,7.38780438 L6.11540446,7.47903579 C5.8924178,7.53193133 5.73168145,7.73269425 5.73168145,7.96556156 C5.73173123,7.97436901 5.73173123,7.97436901 5.73197725,7.98308838 L5.74947088,8.5 L2.5,8.5 L2.5,11.5 L5.33073691,11.5 L5.64447183,11.5 L5.78094969,11.7824949 C5.84618077,11.9175165 5.96972832,12.0175065 6.11540446,12.0520629 L6.5,12.1432943 L6.5,15.5 L9.5,15.5 L9.5,12.1290555 L9.91643127,12.0584612 C10.0754389,12.031506 10.2122807,11.9276113 10.2823888,11.7824949 L10.4188666,11.5 L10.7326016,11.5 L13.5,11.5 Z" mask="url(#mt---malta-b)"/>
-    <g mask="url(#mt---malta-b)">
-      <g transform="translate(16)">
-        <mask id="mt---malta-d" fill="#fff">
-          <use xlink:href="#mt---malta-c"/>
-        </mask>
-        <use fill="#E31D1C" xlink:href="#mt---malta-c"/>
-        <rect width="12" height="24" x="-16" fill="#FFF" mask="url(#mt---malta-d)"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="24px" viewBox="0 0 32 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/L/MT - Malta</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="24"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="24"></rect>
+    </defs>
+    <g id="flags/L/MT---Malta" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="mask" fill="#F7FCFF" xlink:href="#path-1"></use>
+            <path d="M9.50018891,4.5 L6.50005784,4.5 L6.50039191,7.38785703 L6.11557636,7.47899505 C5.89250682,7.53182585 5.73168145,7.7326294 5.73131537,7.94643193 L5.75250999,8.5 L2.5,8.5 L2.5,11.5000709 L5.64453815,11.500517 L5.78106341,11.7827302 C5.84635355,11.9176923 5.9699153,12.0176059 6.11557636,12.0521037 L6.50038572,12.1432402 L6.50005001,15.5 L9.50016323,15.5 L9.50126377,12.1293311 L9.91699245,12.0583658 C10.0756742,12.0312786 10.2122161,11.9275499 10.2822751,11.7827302 L10.4187999,11.5005178 L13.5,11.5000723 L13.5,8.50012906 L10.3134174,8.50095146 L10.331347,7.98350319 C10.3316048,7.97457851 10.3316048,7.97457851 10.331657,7.96556156 C10.331657,7.72107332 10.1546723,7.51330515 9.91699245,7.47273293 L9.50128544,7.40177128 L9.50018891,4.5 Z" id="Combined-Shape" stroke="#FECA00" fill="#A0A0A0" mask="url(#mask-2)"></path>
+            <g id="contents" mask="url(#mask-2)">
+                <g transform="translate(16.000000, 0.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="background" stroke="none" fill="#E31D1C" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect id="right" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-4)" x="-16" y="0" width="12" height="24"></rect>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

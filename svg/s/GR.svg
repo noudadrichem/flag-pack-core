@@ -1,22 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="gr---greece-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="gr---greece-b" fill="#fff">
-      <use xlink:href="#gr---greece-a"/>
-    </mask>
-    <g mask="url(#gr---greece-b)">
-      <g transform="translate(-1)">
-        <polygon fill="#F7FCFF" points="1 0 17 0 17 12 1 12"/>
-        <rect width="16" height="1.5" x="1.014" y="2.75" fill="#4564F9"/>
-        <polygon fill="#4564F9" points="1 0 17 0 17 1.5 1 1.5"/>
-        <rect width="16" height="1.5" x=".971" y="5.5" fill="#4564F9"/>
-        <rect width="16" height="1.5" x="1.056" y="8.2" fill="#4564F9"/>
-        <rect width="16" height="1.5" x="1.051" y="10.75" fill="#4564F9"/>
-        <polygon fill="#4564F9" points="1 0 9 0 9 7 1 7"/>
-        <polygon fill="#F7FCFF" points="4.236 0 5.818 0 5.818 2.75 9 2.75 9 4.643 5.818 4.643 5.818 7.5 4.236 7.5 4.236 4.643 1 4.643 1 2.75 4.236 2.75"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/GR - Greece</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/GR---Greece" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <g transform="translate(-1.000000, 0.000000)">
+                    <polygon id="bottom" fill="#F7FCFF" points="1 0 17 0 17 12 1 12"></polygon>
+                    <rect id="lines" fill="#4564F9" x="1.01357922" y="2.75" width="16" height="1.5"></rect>
+                    <polygon id="lines" fill="#4564F9" points="1 0 17 0 17 1.5 1 1.5"></polygon>
+                    <rect id="lines" fill="#4564F9" x="0.970564347" y="5.5" width="16" height="1.5"></rect>
+                    <rect id="lines" fill="#4564F9" x="1.05583211" y="8.19999695" width="16" height="1.5"></rect>
+                    <rect id="lines" fill="#4564F9" x="1.05073627" y="10.75" width="16" height="1.5"></rect>
+                    <polygon id="square" fill="#4564F9" points="1 0 9 0 9 7 1 7"></polygon>
+                    <polygon id="cross" fill="#F7FCFF" points="4.23553706 0 5.81769178 0 5.81769178 2.75 9 2.75 9 4.64319451 5.81769178 4.64319451 5.81769178 7.5 4.23553706 7.5 4.23553706 4.64319451 1 4.64319451 1 2.75 4.23553706 2.75"></polygon>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

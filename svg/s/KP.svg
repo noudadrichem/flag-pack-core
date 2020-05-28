@@ -1,15 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="kp---korea-(north)-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd" mask="url(#kp---korea-(north)-b)">
-    <use fill="#3D58DB" xlink:href="#kp---korea-(north)-a"/>
-    <rect width="17" height="7" x="-.5" y="2.5" fill="#C51918" stroke="#F7FCFF" mask="url(#kp---korea-(north)-d)"/>
-    <g mask="url(#kp---korea-(north)-d)">
-      <g transform="translate(2.5 3.5)">
-        <circle cx="2.5" cy="2.5" r="2.5" fill="#F7FCFF"/>
-        <polygon fill="#C51918" points="2.498 3.435 1.139 4.38 1.619 2.796 .3 1.797 1.954 1.763 2.498 .2 3.041 1.763 4.695 1.797 3.377 2.796 3.856 4.38"/>
-      </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/KP - Korea (North)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/KP---Korea-(North)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#3D58DB" xlink:href="#path-3"></use>
+                <rect id="bottom" stroke="#F7FCFF" fill="#C51918" mask="url(#mask-4)" x="-0.5" y="2.5" width="17" height="7"></rect>
+                <g id="mark" mask="url(#mask-4)">
+                    <g transform="translate(2.500000, 3.500000)">
+                        <circle id="Oval-39" fill="#F7FCFF" cx="2.5" cy="2.5" r="2.5"></circle>
+                        <polygon id="Star-10" fill="#C51918" points="2.49753147 3.43490287 1.1393672 4.37999678 1.61850908 2.79625571 0.299975514 1.79661481 1.95426575 1.76290291 2.49753147 0.199996948 3.04079719 1.76290291 4.69508743 1.79661481 3.37655387 2.79625571 3.85569575 4.37999678"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

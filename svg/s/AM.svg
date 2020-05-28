@@ -1,19 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="am---armenia-a" width="16" height="12" x="0" y="0"/>
-    <rect id="am---armenia-c" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="am---armenia-b" fill="#fff">
-      <use xlink:href="#am---armenia-a"/>
-    </mask>
-    <g mask="url(#am---armenia-b)">
-      <mask id="am---armenia-d" fill="#fff">
-        <use xlink:href="#am---armenia-c"/>
-      </mask>
-      <use fill="#2E42A5" xlink:href="#am---armenia-c"/>
-      <rect width="16" height="4" fill="#E31D1C" mask="url(#am---armenia-d)"/>
-      <rect width="16" height="4" y="8" fill="#FECA00" mask="url(#am---armenia-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/AM - Armenia</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/AM---Armenia" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#2E42A5" xlink:href="#path-3"></use>
+                <rect id="top" fill="#E31D1C" mask="url(#mask-4)" x="0" y="0" width="16" height="4"></rect>
+                <rect id="bottom" fill="#FECA00" mask="url(#mask-4)" x="0" y="8" width="16" height="4"></rect>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

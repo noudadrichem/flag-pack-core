@@ -1,17 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="bq-bn---bonaire-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="bq-bn---bonaire-b" fill="#fff">
-      <use xlink:href="#bq-bn---bonaire-a"/>
-    </mask>
-    <g mask="url(#bq-bn---bonaire-b)">
-      <polygon fill="#FFF" points="0 0 16 0 16 12 0 12"/>
-      <polygon fill="#FEDA00" points="0 5.467 0 0 8 0"/>
-      <polygon fill="#00268D" points="0 12 16.005 12 16.005 0"/>
-      <path fill="#FFF" stroke="#000" stroke-width=".5" d="M4.67666667,7.44098301 L4.79670423,7.20090789 L4.92878639,7.18387912 C5.75251048,7.07768004 6.4206989,6.45480517 6.58691686,5.64388748 L6.72002151,5.47048075 L6.79431634,5.43333333 L6.62976952,5.35105993 L6.62606036,5.20082934 C6.60212369,4.23133468 5.86709503,3.42800315 4.91048228,3.31384888 L4.77225541,3.29735403 L4.66970783,3.0771813 L4.55988653,3.29884484 L4.42699866,3.31580637 C3.47757788,3.43698843 2.7510646,4.23720944 2.72727298,5.20082934 L2.72356381,5.35105993 L2.55901699,5.43333333 L2.63331182,5.47048075 L2.76641648,5.64388748 C2.93263443,6.45480517 3.60082285,7.07768004 4.42454695,7.18387912 L4.55662911,7.20090789 L4.67666667,7.44098301 Z"/>
-      <polygon fill="#F00A17" points="4.688 4.15 4.363 4.695 3.723 4.695 4.042 5.267 3.723 5.815 4.363 5.815 4.688 6.375 5.017 5.815 5.652 5.815 5.34 5.267 5.652 4.695 5.017 4.695"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/BQ-BO - Bonaire</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/BQ-BO---Bonaire" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <polygon id="bg" fill="#FFFFFF" points="0 0 16 0 16 12 0 12"></polygon>
+                <polygon id="Path-448" fill="#FEDA00" points="0 5.46666667 0 0 8 0"></polygon>
+                <polygon id="Path-451" fill="#00268D" points="2.98427949e-13 12 16.0045011 12 16.0045011 0"></polygon>
+                <path d="M6.84542072,5.25 L6.87666667,5.25 L7.12639353,5.23831687 L7.12372686,5.18131687 L6.874,5.193 L6.84542072,5.25 Z M6.79505629,5.43308252 L7.24128134,5.65681566 L7.2414822,5.20975041 L6.79505629,5.43308252 Z M4.6770312,7.44225596 L4.45326091,7.88779541 L4.9002189,7.88808754 L4.6770312,7.44225596 Z M2.55828574,5.43308687 L2.11185114,5.20975041 L2.1120485,5.65681741 L2.55828574,5.43308687 Z M4.6697297,3.07536382 L4.90051166,2.61132574 L4.4502027,2.60589652 L4.6697297,3.07536382 Z" id="Combined-Shape" stroke="#000000" stroke-width="0.5" fill="#FFFFFF"></path>
+                <polygon id="Path-450" fill="#F00A17" points="4.68789759 4.15 4.36338215 4.69453031 3.72333333 4.69453031 4.04248703 5.26661786 3.72333333 5.81536425 4.36338215 5.81536425 4.68789759 6.37523129 5.01736234 5.81536425 5.65165224 5.81536425 5.34030439 5.26661786 5.65165224 4.69453031 5.01736234 4.69453031"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

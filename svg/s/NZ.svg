@@ -1,29 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="nz---new-zealand-(aotearoa)-a" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd" mask="url(#nz---new-zealand-(aotearoa)-b)">
-    <use fill="#2E42A5" xlink:href="#nz---new-zealand-(aotearoa)-a"/>
-    <g mask="url(#nz---new-zealand-(aotearoa)-d)">
-      <g mask="url(#nz---new-zealand-(aotearoa)-f)">
-        <g transform="translate(-2 -1)">
-          <polygon fill="#F7FCFF" fill-rule="nonzero" points=".998 1.232 2.978 .363 11.045 6.787 12.09 8.078 9.972 8.369 6.682 5.6 4.033 3.735" transform="matrix(1 0 0 -1 0 8.732)"/>
-          <polygon fill="#F50100" fill-rule="nonzero" points="1.269 1.038 2.278 .534 11.714 8.613 10.298 8.613" transform="matrix(1 0 0 -1 0 9.146)"/>
-          <g transform="matrix(-1 0 0 1 13 0)">
-            <polygon fill="#F7FCFF" fill-rule="nonzero" points=".998 1.232 2.978 .363 11.045 6.787 12.09 8.078 9.972 8.369 6.682 5.6 4.033 3.735" transform="matrix(1 0 0 -1 0 8.732)"/>
-            <polygon fill="#F50100" fill-rule="nonzero" points="1.065 1.162 2.074 .658 6.093 4.117 7.284 4.503 12.19 8.441 10.773 8.441 5.87 4.597 4.567 4.134" transform="matrix(1 0 0 -1 0 9.099)"/>
-          </g>
-          <path fill="#F50100" stroke="#F7FCFF" stroke-width=".75" d="M3.61725576,2.625 L3.61725576,-0.375 L5.36725576,-0.375 L5.36725576,2.625 L9.375,2.625 L9.375,4.375 L5.36725576,4.375 L5.36725576,7.375 L3.61725576,7.375 L3.61725576,4.375 L-0.375,4.375 L-0.375,2.625 L3.61725576,2.625 Z" transform="translate(2 1)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/NZ - New Zealand (Aotearoa)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-5" x="0" y="0" width="9" height="7"></rect>
+        <rect id="path-7" x="0" y="0" width="9" height="7"></rect>
+    </defs>
+    <g id="flags/S/NZ---New-Zealand-(Aotearoa)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#2E42A5" xlink:href="#path-3"></use>
+                <g id="gb---small" mask="url(#mask-4)">
+                    <g id="flag">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="mask"></g>
+                        <g id="contents" mask="url(#mask-6)">
+                            <g transform="translate(-2.000000, -1.000000)">
+                                <g id="stripe">
+                                    <polygon id="white" fill="#F7FCFF" fill-rule="nonzero" transform="translate(6.543731, 4.365902) scale(1, -1) translate(-6.543731, -4.365902) " points="0.997866872 1.23189449 2.97834209 0.363294267 11.0449402 6.78743314 12.0895956 8.07819892 9.9717623 8.36851072 6.68158973 5.60016547 4.033339 3.73494762"></polygon>
+                                    <polygon id="red" fill="#F50100" fill-rule="nonzero" transform="translate(6.491732, 4.573107) scale(1, -1) translate(-6.491732, -4.573107) " points="1.26899691 1.0377417 2.27795758 0.533678352 11.7144671 8.61253609 10.2977689 8.61253609"></polygon>
+                                </g>
+                                <g id="stripe" transform="translate(6.500000, 4.500000) scale(-1, 1) translate(-6.500000, -4.500000) ">
+                                    <polygon id="white" fill="#F7FCFF" fill-rule="nonzero" transform="translate(6.543731, 4.365902) scale(1, -1) translate(-6.543731, -4.365902) " points="0.997866872 1.23189449 2.97834209 0.363294267 11.0449402 6.78743314 12.0895956 8.07819892 9.9717623 8.36851072 6.68158973 5.60016547 4.033339 3.73494762"></polygon>
+                                    <polygon id="red" fill="#F50100" fill-rule="nonzero" transform="translate(6.627779, 4.549380) scale(1, -1) translate(-6.627779, -4.549380) " points="1.06544306 1.16208955 2.07440374 0.658026209 6.09256727 4.11700491 7.28386651 4.5034683 12.1901144 8.44073422 10.7734162 8.44073422 5.86992481 4.59692228 4.567449 4.13351128"></polygon>
+                                </g>
+                                <g id="cross" transform="translate(2.000000, 1.000000)">
+                                    <path d="M5.36703197,2.625 L9.375,2.625 L9.375,4.375 L5.36703197,4.375 L5.36728773,7.375 L3.61728773,7.375 L3.61703197,4.375 L-0.375,4.375 L-0.375,2.625 L3.61703197,2.625 L3.61728773,-0.375 L5.36728773,-0.375 L5.36703197,2.625 Z" id="red" stroke="#F7FCFF" stroke-width="0.75" fill="#F50100"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="mark-1" mask="url(#mask-4)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="mask"></g>
+                </g>
+                <g id="mark-2" mask="url(#mask-4)" fill="#F50100" stroke="#F7FCFF" stroke-width="0.35">
+                    <g transform="translate(9.000000, 2.000000)" id="Star-10">
+                        <polygon points="3.42658477 8.25 2.5449069 8.71352549 2.71329239 7.73176275 2 7.03647451 2.98574584 6.89323725 3.42658477 6 3.86742371 6.89323725 4.85316955 7.03647451 4.13987716 7.73176275 4.30826265 8.71352549"></polygon>
+                        <polygon points="1.60000002 4.93490966 0.920162621 5.29232133 1.05000001 4.53531126 0.5 3.99919375 1.26008132 3.88874747 1.60000002 3.19999695 1.93991873 3.88874747 2.70000005 3.99919375 2.15000004 4.53531126 2.27983743 5.29232133"></polygon>
+                        <polygon points="5.09877798 4.93298226 4.41969584 5.28999686 4.54938899 4.53382779 4 3.99830588 4.75923691 3.8879823 5.09877798 3.19999695 5.43831905 3.8879823 6.19755596 3.99830588 5.64816697 4.53382779 5.77786012 5.28999686"></polygon>
+                        <polygon points="3.60000002 2.1349066 2.92016262 2.49231828 3.05000001 1.73530821 2.5 1.19919069 3.26008132 1.08874441 3.60000002 0.399993896 3.93991873 1.08874441 4.70000005 1.19919069 4.15000004 1.73530821 4.27983743 2.49231828"></polygon>
+                    </g>
+                </g>
+            </g>
         </g>
-      </g>
     </g>
-    <g fill="#F50100" stroke="#F7FCFF" stroke-width=".35" mask="url(#nz---new-zealand-(aotearoa)-d)">
-      <g transform="translate(9 2)">
-        <polygon points="3.427 8.25 2.545 8.714 2.713 7.732 2 7.036 2.986 6.893 3.427 6 3.867 6.893 4.853 7.036 4.14 7.732 4.308 8.714"/>
-        <polygon points="1.6 4.935 .92 5.292 1.05 4.535 .5 3.999 1.26 3.889 1.6 3.2 1.94 3.889 2.7 3.999 2.15 4.535 2.28 5.292"/>
-        <polygon points="5.099 4.933 4.42 5.29 4.549 4.534 4 3.998 4.759 3.888 5.099 3.2 5.438 3.888 6.198 3.998 5.648 4.534 5.778 5.29"/>
-        <polygon points="3.6 2.135 2.92 2.492 3.05 1.735 2.5 1.199 3.26 1.089 3.6 .4 3.94 1.089 4.7 1.199 4.15 1.735 4.28 2.492"/>
-      </g>
-    </g>
-  </g>
 </svg>

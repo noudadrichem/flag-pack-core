@@ -1,18 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="12" viewBox="0 0 16 12">
-  <defs>
-    <rect id="ch---switzerland-a" width="16" height="12" x="0" y="0"/>
-    <rect id="ch---switzerland-c" width="16" height="12" x="0" y="0"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="ch---switzerland-b" fill="#fff">
-      <use xlink:href="#ch---switzerland-a"/>
-    </mask>
-    <g mask="url(#ch---switzerland-b)">
-      <mask id="ch---switzerland-d" fill="#fff">
-        <use xlink:href="#ch---switzerland-c"/>
-      </mask>
-      <use fill="#E31D1C" xlink:href="#ch---switzerland-c"/>
-      <path fill="#F1F9FF" d="M9,5 L11,5 L11,7 L9,7 L9,9 L7,9 L7,7 L5,7 L5,5 L7,5 L7,3 L9,3 L9,5 Z" mask="url(#ch---switzerland-d)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>flags/S/CH - Switzerland</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="12"></rect>
+        <rect id="path-3" x="0" y="0" width="16" height="12"></rect>
+    </defs>
+    <g id="flags/S/CH---Switzerland" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="mask"></g>
+            <g id="contents" mask="url(#mask-2)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="background" fill="#E31D1C" xlink:href="#path-3"></use>
+                <path d="M9,3 L9,5 L11,5 L11,7 L9,7 L9,9 L7,9 L7,7 L5,7 L5,5 L7,5 L7,3 L9,3 Z" id="Combined-Shape" fill="#F1F9FF" mask="url(#mask-4)"></path>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>
