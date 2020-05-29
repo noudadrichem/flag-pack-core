@@ -15,6 +15,7 @@ function isoToCountryCode(isoCode, keyToGet = 'alpha2') {
 }
 
 function imageUrl(assetCode, size) {
+  console.log('image url', assetCode, size);
   try {
     return flags[assetCode][size]
   } catch {
